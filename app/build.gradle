@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "com.example.android.flashlight"
+        applicationId "com.artim.android.flashlight"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1

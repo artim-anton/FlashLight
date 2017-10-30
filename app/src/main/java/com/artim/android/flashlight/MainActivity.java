@@ -1,4 +1,4 @@
-package com.example.android.flashlight;
+package com.artim.android.flashlight;
 
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
